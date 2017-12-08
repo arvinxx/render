@@ -1,0 +1,57 @@
+{
+    "root": "./docs",
+    "author": "Arvinx",
+    "language": "zh-hans",
+    "styles":{
+        "website":"styles/website.css"
+    },
+    "plugins": [
+        "disqus",
+        "-highlight",
+        "github",
+        "expandable-chapters-small",
+        "splitter",
+        "-sharing",
+        "sharing-plus",
+        "local-pagefooter",
+        "anchors"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "disqus": {
+            "shortName": "arvinx"
+        },
+        "github": {
+            "url": "https://github.com/arvinxx"
+        },
+
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": true,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": true,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": true,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": ["facebook", "google", "twitter", "instapaper", "pocket"]
+        },
+        "local-pagefooter": {
+            "copyright": "Copyright &copy ArvinX",
+            "islocal": true,
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}
