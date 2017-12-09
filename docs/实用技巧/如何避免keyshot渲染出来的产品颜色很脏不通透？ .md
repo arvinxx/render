@@ -47,6 +47,8 @@ SO：在渲染有颜色的产品时，要在灰面暗面加入相应色，也就
 
 ![](http://ox55f9bg6.bkt.clouddn.com/2017-10-04-52060.jpg)
 
-[如何避免keyshot渲染出来的产品颜色很脏不通透？](https://www.zhihu.com/question/54619462)
+来源：[如何避免keyshot渲染出来的产品颜色很脏不通透？](https://www.zhihu.com/question/54619462) 
+
+感谢作者「色魔张大妈」
 
 
