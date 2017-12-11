@@ -1,8 +1,12 @@
-Greyscalegorilla HDRI 介绍
-==========================
+# GSG HDRI 灰猩猩环境贴图介绍
 
- Pro Studios \| Greyscalegorilla
---------------------------------
+ Greyscalegorilla 是 C4D 领域相当著名的一个机构。其出品了大量和渲染相关的资料、资源。本文介绍的就是其中一个很重要的部分——HDRI 贴图。
+
+因为 KS 没法和 C4D 联动，因此 GSG 唯一可以被 KS 运用的便是他们出品的 HDR 贴图。以下内容来自他们官方的介绍，后续将会逐一进行翻译并且介绍适合的使用场景。
+
+
+
+## Pro Studios
 
 Bring your 3D model or scene into these professional photography studio HDRIs
 for clean reflections and studio quality lighting. Choose from over 70 studios
@@ -18,8 +22,8 @@ the Pro Studios Expansion pack is THE pack for doing awesome photo-studio
 renders. It’s perfect for abstract motion graphics or visualizing a shiny new
 product.
 
-HDRI PACK: PARADISE IN ACTION 
-==============================
+## HDRI PACK: PARADISE IN ACTION 
+
 
 ![](http://ox55f9bg6.bkt.clouddn.com/2017-10-04-054650.jpg)
 
@@ -33,8 +37,7 @@ HDRI PACK: PARADISE IN ACTION
 
 ![](http://ox55f9bg6.bkt.clouddn.com/2017-10-04-054648.jpg)
 
-HDRI Expansion Pack: Paradise ：直射高光
-========================================
+## HDRI Expansion Pack: Paradise ——直射高光
 
 ![](http://ox55f9bg6.bkt.clouddn.com/2017-10-04-054714.jpg)
 
@@ -69,8 +72,8 @@ in to C4D.
 
 ![](http://ox55f9bg6.bkt.clouddn.com/2017-10-04-054630.jpg)
 
-Commercial Locations ：产品渲染
--------------------------------
+## Commercial Locations ——产品渲染
+
 
 ![](http://ox55f9bg6.bkt.clouddn.com/2017-10-04-054708.jpg)
 
@@ -104,8 +107,7 @@ the Commercial Locations Expansion Pack.
 
 ![](http://ox55f9bg6.bkt.clouddn.com/2017-10-04-54625.jpg)
 
-Road Trip：复杂光源反射、大量高光点
------------------------------------
+## Road Trip：复杂光源反射、大量高光点
 
 “This is one of my personal favorite packs. So many different light types and
 sizes, you can really get some complex reflections going.”
@@ -114,7 +116,6 @@ Amador Valenzuela *Motion Designer / Blackbook Design*
 
 ![](http://ox55f9bg6.bkt.clouddn.com/2017-10-04-054633.jpg)
 
-\*
 
 ![](http://ox55f9bg6.bkt.clouddn.com/2017-10-04-054623.jpg)
 
@@ -141,8 +142,7 @@ it very easy to get really cool and unique looks like the render featured above.
 
 ![](http://ox55f9bg6.bkt.clouddn.com/2017-10-04-054643.jpg)
 
-06European Holiday
-------------------
+## 06European Holiday
 
 ![](http://ox55f9bg6.bkt.clouddn.com/2017-10-04-054706.jpg)
 
@@ -153,7 +153,7 @@ may not know it, but if you follow him you’ve already seen European Holiday in
 use.
 
 Fun Fact: Our very own Chris Schmidt’s most favorite HDRI ever is in this pack.
-See if you can guess which one it is. Hint: it rhymes with Bear-elict. 
+See if you can guess which one it is. Hint: it rhymes with Bear-elict.
 
 ![](http://ox55f9bg6.bkt.clouddn.com/2017-10-04-054645.jpg)
 
