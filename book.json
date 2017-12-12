@@ -13,6 +13,7 @@
         "splitter",
         "-sharing",
         "sharing-plus",
+        "ga",
         "local-pagefooter",
         "anchors"
     ],
@@ -26,7 +27,9 @@
         "github": {
             "url": "https://github.com/arvinxx"
         },
-
+        "ga": {
+            "token": "UA-110579858-2"
+        },
         "sharing": {
             "douban": false,
             "facebook": false,
